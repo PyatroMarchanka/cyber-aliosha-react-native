@@ -5,9 +5,20 @@
     "react-dom": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-40.0.1.tar.gz",
     "react-native-screens": "~2.15.0",
-    "react-native-web": "~0.13.12"
+    "react-native-web": "~0.13.12",
+    "compromise": "^13.10.0",
+    "compromise-syllables": "^0.0.6",
+    "lodash": "^4.17.20",
+    "midi-sounds-react": "^1.2.54",
+    "react-scripts": "^4.0.3",
+    "scripts": "^0.1.0",
+    "styled-components": "^5.2.1",
+    "syllables-ru": "^1.1.0",
+    "vexflow": "^3.0.9"
   },
   "devDependencies": {
+    "@types/lodash": "^4.14.168",
+    "@types/styled-components": "^5.1.8",
     "@babel/core": "~7.9.0",
     "@types/react": "~16.9.35",
     "@types/react-native": "~0.63.2",
